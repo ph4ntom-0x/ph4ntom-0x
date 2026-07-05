@@ -12,7 +12,7 @@
 
 <!-- NAME AND TAGLINE (Upgraded to be fully mobile-responsive) -->
 <div align="center">
-  <h1>⚡ DIPANSHU SINGH ⚡</h1>
+  <h1>⚡ WELCOME ⚡</h1>
   <p align="center"><code>ph4ntom_0x</code></p>
   <p align="center"><em>"Understanding what breaks is the first step to building what holds."</em></p>
 </div>
