@@ -37,7 +37,7 @@ profile = {
         "Low-Level Systems and Kernel Security",
         "Hardware Security ",
     ],
-    "status"     : "Phase 1 active · IICE funding presentation soon",
+    "status"     : "Phase 1 active · IICE funding presentation in progress ",
 }
 ```
 
@@ -180,13 +180,12 @@ Papers I am actively reading and building on:
 ```
 2026  Phase 1 ── IndicShield Layer 1 normalizer + Hinglish dataset
       Phase 2 ── Layer 2 LoRA classifier (MuRIL / Qwen)
-      Apply  ── MITACS Globalink → UBC (Pattabiraman lab)
-
+      
 2027  Phase 3 ── C++ port + Linux sandbox + STAC chain defense
-      Intern ── Foreign research lab (UBC / EPFL target)
+       
 
 2028  Phase 4 ── SDK + enterprise pilots + first revenue
-      Apply  ── MS at ETH Zurich / EPFL / CMU (AI Security)
+
 
 2029  Grad   ── B.Tech IISER Bhopal
       Target ── AI Security Engineer at research lab or startup
@@ -213,7 +212,7 @@ Papers I am actively reading and building on:
 
 ```
 // currently executing: Phase 1 · IndicShield
-// next milestone: IICE funding presentation
+// next milestone: IICE funding presentation (in progress)
 // long-term target: ETH Zurich / EPFL MS · AI Security
 ```
 
